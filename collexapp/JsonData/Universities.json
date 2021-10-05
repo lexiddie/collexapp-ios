@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Asia-Pacific International University",
+    "abbreviation": "AIU"
+  },
+  {
+    "name": "Assumption University",
+    "abbreviation": "AU"
+  },
+  {
+    "name": "Bangkok University",
+    "abbreviation": "BU"
+  },
+  {
+    "name": "Bangkokthonburi University",
+    "abbreviation": "BTU"
+  },
+  {
+    "name": "Chaopraya University",
+    "abbreviation": "CPU"
+  },
+  {
+    "name": "Christian University",
+    "abbreviation": "CTU"
+  },
+  {
+    "name": "Dhurakij Pundit University",
+    "abbreviation": "DPU"
+  },
+  {
+    "name": "E-sarn University",
+    "abbreviation": "ESU"
+  },
+  {
+    "name": "Eastern Asia University",
+    "abbreviation": "EAU"
+  },
+  {
+    "name": "Hatyai University",
+    "abbreviation": "HU"
+  },
+  {
+    "name": "Huachiew Chalermprakiet University",
+    "abbreviation": "HCU"
+  },
+  {
+    "name": "Kasem Bundit University",
+    "abbreviation": "KBU"
+  },
+  {
+    "name": "Krirk University",
+    "abbreviation": "KRIRK"
+  },
+  {
+    "name": "Mahanakorn University of Technology",
+    "abbreviation": "MUT"
+  },
+  {
+    "name": "North Eastern University",
+    "abbreviation": "NEU"
+  },
+  {
+    "name": "North Chiang Mai University",
+    "abbreviation": "NCU"
+  },
+  {
+    "name": "Pathumthani University",
+    "abbreviation": "PTU"
+  },
+  {
+    "name": "Payap University",
+    "abbreviation": "PYU"
+  },
+  {
+    "name": "The University of Central Thailand",
+    "abbreviation": "TUCT"
+  },
+  {
+    "name": "Ratchathani University",
+    "abbreviation": "RTU"
+  },
+  {
+    "name": "Rattana Bundit University",
+    "abbreviation": "RBAC"
+  },
+  {
+    "name": "Saint John's University",
+    "abbreviation": "SJU"
+  },
+  {
+    "name": "Shinawatra University",
+    "abbreviation": "SIU"
+  },
+  {
+    "name": "Siam University",
+    "abbreviation": "SU"
+  },
+  {
+    "name": "South-East Asia University",
+    "abbreviation": "SAU"
+  },
+  {
+    "name": "Sripatum University",
+    "abbreviation": "SPU"
+  },
+  {
+    "name": "Stamford International University",
+    "abbreviation": "STIU"
+  },
+  {
+    "name": "Rangsit University",
+    "abbreviation": "RSU"
+  },
+  {
+    "name": "The Far Eastern University",
+    "abbreviation": "FEU"
+  },
+  {
+    "name": "University of the Thai Chamber of Commerce",
+    "abbreviation": "UTCC"
+  },
+  {
+    "name": "Vongchavalitkul University",
+    "abbreviation": "VU"
+  },
+  {
+    "name": "Webster University Thailand",
+    "abbreviation": "WUTC"
+  },
+  {
+    "name": "Western University",
+    "abbreviation": "WTU"
+  },
+  {
+    "name": "Fatoni University",
+    "abbreviation": "YIU"
+  },
+  {
+    "name": "Nation University (Yonok University)",
+    "abbreviation": "NTU"
+  },
+  {
+    "name": "The Eastern University of Management and Technology",
+    "abbreviation": "UMT"
+  },
+  {
+    "name": "Thonburi University",
+    "abbreviation": "ThonburiU"
+  },
+  {
+    "name": "North Bangkok University",
+    "abbreviation": "NBU"
+  },
+  {
+    "name": "Burapha University",
+    "abbreviation": "BUU"
+  },
+  {
+    "name": "Chiang Mai University",
+    "abbreviation": "CMU"
+  },
+  {
+    "name": "Chulalongkorn University",
+    "abbreviation": "CU"
+  },
+  {
+    "name": "Chulabhorn Graduate Institute",
+    "abbreviation": "CGI"
+  },
+  {
+    "name": "HRH Princess Chulabhorn College of Medical Science",
+    "abbreviation": "PCCMS"
+  },
+  {
+    "name": "Kasetsart University",
+    "abbreviation": "KU"
+  },
+  {
+    "name": "Khon Kaen University",
+    "abbreviation": "KKU"
+  },
+  {
+    "name": "King Mongkut's Institute of Technology Ladkrabang",
+    "abbreviation": "KMITL"
+  },
+  {
+    "name": "King Mongkut's University of Technology North Bangkok",
+    "abbreviation": "KMUTNB"
+  },
+  {
+    "name": "King Mongkut's University of Technology Thonburi",
+    "abbreviation": "KMUTT"
+  },
+  {
+    "name": "Mae Fah Luang University",
+    "abbreviation": "MFU"
+  },
+  {
+    "name": "Maejo University",
+    "abbreviation": "MJU"
+  },
+  {
+    "name": "Mahachulalongkornrajavidyalaya University",
+    "abbreviation": "MCU"
+  },
+  {
+    "name": "Mahamakut Buddhist University",
+    "abbreviation": "MBU"
+  },
+  {
+    "name": "Mahidol University",
+    "abbreviation": "MU"
+  },
+  {
+    "name": "National Institute of Development Administration",
+    "abbreviation": "NIDA"
+  },
+  {
+    "name": "Navamindradhiraj University",
+    "abbreviation": "NMU"
+  },
+  {
+    "name": "University of Phayao",
+    "abbreviation": "UP"
+  },
+  {
+    "name": "Prince of Songkla University",
+    "abbreviation": "PSU"
+  },
+  {
+    "name": "Princess Galyani Vadhana Institute of Music",
+    "abbreviation": "PGVIM"
+  },
+  {
+    "name": "Silpakorn University",
+    "abbreviation": "SU"
+  },
+  {
+    "name": "Srinakharinwirot University",
+    "abbreviation": "SWU"
+  },
+  {
+    "name": "Srisavarindhira Thai Red Cross Institute of Nursing",
+    "abbreviation": "STIN"
+  },
+  {
+    "name": "Suan Dusit University",
+    "abbreviation": "SDU"
+  },
+  {
+    "name": "Suranaree University of Technology",
+    "abbreviation": "SUT"
+  },
+  {
+    "name": "Thaksin University",
+    "abbreviation": "TSU"
+  },
+  {
+    "name": "Thammasat University",
+    "abbreviation": "TU"
+  },
+  {
+    "name": "Walailak University",
+    "abbreviation": "WU"
+  },
+  {
+    "name": "Chitralada Technology Institute",
+    "abbreviation": "CDTI"
+  }
+]

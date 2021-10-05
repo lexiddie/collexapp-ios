@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Assumption University",
+    "abbreviation": "AU",
+    "campuses": [
+      {
+        "name": "Suvarnabhumi Campus",
+        "location": {
+          "lat": 13.6830878,
+          "long": 100.6977609
+        }
+      },
+      {
+        "name": "Hua Mak Campus",
+        "location": {
+          "lat": 13.7540787,
+          "long": 100.6257145
+        }
+      },
+      {
+        "name": "City Campus",
+        "location": {
+          "lat": 13.7450232,
+          "long": 100.5381941
+        }
+      }
+    ]
+  },
+  {
+    "name": "Bangkok University",
+    "abbreviation": "BU",
+    "campuses": [
+      {
+        "name": "Main Campus",
+        "location": {
+          "lat": 14.0386995,
+          "long": 100.619173
+        }
+      },
+      {
+        "name": "City Campus",
+        "location": {
+          "lat": 13.7114813,
+          "long": 100.5829613
+        }
+      }
+    ]
+  }
+]

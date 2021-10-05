@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sd7yf86df8dfh34",
+    "name": "Vehicles",
+    "subcategories": [
+      {
+        "id": "21312sd7yf86df8dfh34",
+        "name": "Car Rental"
+      },
+      {
+        "id": "21312sd7dsfsdf8dfh34",
+        "name": "New Cars"
+      }
+    ]
+  },
+  {
+    "id": "2fdsf7tsd87f",
+    "name": "Entertainment",
+    "subcategories": [
+      {
+        "id": "21312sd7yf86df8dfh34",
+        "name": "Books, Movies, & Music"
+      },
+      {
+        "id": "21312sddfd6df8dfh34",
+        "name": "Video Games"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Karaoke"
+      }
+    ]
+  },
+  {
+    "id": "2fdsfsdfhgkj23d87f",
+    "name": "Services",
+    "subcategories": [
+      {
+        "id": "21312sd7yf86df8dfh34",
+        "name": "Tour Guide"
+      },
+      {
+        "id": "21312sddfd6df8dfh34",
+        "name": "Taxi Meter/Cab"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Motorcycle Taxi"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Delivery"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Packing and Unpacking Service"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Room Repairs"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Laundry & Dry"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Room Repairs"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Car Wash"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Automobile Service"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Visa Service"
+      },
+      {
+        "id": "21312sddfd6df8hjdf7",
+        "name": "Tax-Form Service"
+      }
+    ]
+  },
+  {
+    "id": "2fdsf7tsd87f",
+    "name": "Food & Drinks",
+    "subcategories": []
+  }
+]
